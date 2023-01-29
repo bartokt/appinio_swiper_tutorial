@@ -1,6 +1,4 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-import 'dart:ffi';
-
 import 'package:flip_card/flip_card.dart';
 import 'package:flutter/material.dart';
 
